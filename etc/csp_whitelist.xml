@@ -51,7 +51,7 @@
         <policy id="font-src">
             <values>
                 <value id="fontawesome" type="host">*.zohocdn.com</value>
-                <value id="zohofonts" type="host">*.gstatic.com</value>
+                <value id="googlefonts" type="host">*.gstatic.com</value>
             </values>
         </policy>
     </policies>
